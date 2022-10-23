@@ -1,0 +1,1 @@
+https://blog.jscrambler.com/scaling-node-js-socket-server-with-nginx-and-redis
